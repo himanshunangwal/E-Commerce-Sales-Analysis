@@ -1,35 +1,70 @@
-# E-Commerce Sales Analysis
+# 📊 E-Commerce Sales Analysis Dashboard
 
-E-Commerce Sales Analysis using Python and Tableau.
+## 👨‍💻 By Himanshu Nangwal
 
-## 📊 Tableau Dashboard
+---
 
-🔗 View Dashboard:  
-https://public.tableau.com/app/profile/himanshu.nangwal/viz/Book3_17744676178350/Dashboard2
+## 🧠 Project Type
+Data Analysis | Business Intelligence | Data Visualization
 
-## 📌 Project Overview
+---
 
-This project analyzes e-commerce sales data to understand business performance, identify top-performing products, and compare sales across regions.
+## 🎯 Objective
+To analyze e-commerce sales data and build an interactive dashboard to understand sales trends, regional performance, and top-performing products.
 
-## 🛠 Tools Used
+---
 
-- Python
-- Pandas
-- Matplotlib
+## 📂 Dataset
+- Superstore Sales Dataset
+- Contains:
+  - Orders, Customers, Products
+  - Sales, Profit, Region, Category
+
+---
+
+## 🛠️ Tools & Technologies
 - Tableau
+- Python (Pandas)
+- Data Visualization
 
-## 📈 Key Insights
+---
 
-- West region generated the highest sales
-- A few top products contributed a major share of total revenue
-- Sales showed monthly fluctuations and business trends
+## 📊 Dashboard Features
+- 📌 KPI Cards (Total Sales & Profit)
+- 🌍 Sales Distribution by Region
+- 📈 Monthly Sales Trend Analysis
+- 🏆 Top 10 Products by Sales
+- 🎛️ Interactive Region Filter
 
-## 📸 Dashboard Preview
+---
 
-(Add screenshot here after uploading image)
+## 🔍 Key Insights
+- West region generates highest sales
+- Sales show seasonal trends across months
+- Few products contribute majority of revenue
+- Some regions have high sales but lower profit
 
-## 📂 Files
+---
 
-- Jupyter Notebook
-- Tableau Dashboard Link
+## 💡 Business Impact
+- Helps identify high-performing regions and products
+- Supports strategic decision-making
+- Improves sales planning and forecasting
+
+---
+
+## 🔗 Tableau Dashboard
+👉 https://public.tableau.com/app/profile/himanshu.nangwal/viz/Book3_17744676178350/Dashboard2
+
+---
+
+## 📁 Files Included
 - Dashboard Screenshot
+- Superstore Dataset
+
+---
+
+## 🚀 Conclusion
+This project demonstrates how data visualization can transform raw data into actionable business insights.
+
+---
