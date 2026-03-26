@@ -59,7 +59,7 @@ To analyze e-commerce sales data and build an interactive dashboard to understan
 ---
 
 ## 📁 Files Included
-- sales_performance_sql.ipynb
+- E-Commerce_Sales_Analysis_Dashboard.ipynb
 - SuperStore.csv
 - dashboard.png
 
